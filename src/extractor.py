@@ -11,6 +11,6 @@ def extract_data(url):
 
 
 
-example = extract_data("https://servicodados.ibge.gov.br/api/v1/localidades/municipios")
+
 
  
